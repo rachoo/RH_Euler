@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F72304E-EBFD-4A70-9D55-9FAB27FFBF6F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Euler</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3ED89E4C17C78E35ECEB8AF088FB36B81DD225B</key>
+		<string>https://github.com/rachoo/RH_Euler.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Euler.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3ED89E4C17C78E35ECEB8AF088FB36B81DD225B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rachoo/RH_Euler.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3ED89E4C17C78E35ECEB8AF088FB36B81DD225B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3ED89E4C17C78E35ECEB8AF088FB36B81DD225B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RH_Euler</string>
+		</dict>
+	</array>
+</dict>
+</plist>
